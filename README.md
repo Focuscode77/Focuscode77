@@ -1,7 +1,3 @@
-### Hi there 👋
-
-<!--
-**Focuscode77/Focuscode77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # 🌱 Joshua Coleman
 
@@ -28,5 +24,3 @@ I'm a front-end developer and I strive to make the internet accessible for every
 <br />
 
 
-
--->
