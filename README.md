@@ -25,7 +25,7 @@ I'm a front-end developer and I strive to make the internet accessible for every
  #
  <h3>👨‍💻 My Portfolio</h3>
 https://focuscode77.github.io/Portfolio/
- <br />
+
 
 
 <details>
