@@ -22,7 +22,7 @@ I'm a front-end developer and I strive to make the internet accessible for every
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
- #
+ 
  <h3>👨‍💻 My Portfolio</h3>
 https://focuscode77.github.io/Portfolio/
 
