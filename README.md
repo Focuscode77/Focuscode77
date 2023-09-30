@@ -22,14 +22,13 @@ I'm a front-end developer and I strive to make the internet accessible for every
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
-
+ #
+ <h3>👨‍💻 My Portfolio</h3>
+https://focuscode77.github.io/Portfolio/
+ <br />
 #
 
 <details>
  <summary><h3>👨‍💻 Joshua's Coding Journey</h3></summary>
    I started my coding journey as a successful personal trainer who wanted to build a mobile application to further my business. I went to an accelerated coding program at the University of Pennsylvania in which I was challenged to build many full-stack application projects which was very challenging. This sparked a passion in me for problem-solving and building technology. I then began freelancing and building websites for clients until I  built a portfolio and began doing contract work for web agencies. This allowed me to gain a full-time position in building and testing technology. My Current technology focus is Frontend development as I have always been passionate about user experience.
- <br />
- #
- 
- ###👨‍💻 My Portfolio 
-https://focuscode77.github.io/Portfolio/
+
