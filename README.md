@@ -1,9 +1,9 @@
 
 # 🌱 Joshua Coleman
 
-**` Software Engineer (Developer/Educator/Creator)`**
+**` QA Engineer (Developer/Educator/Creator)`**
 
-I'm a front-end developer and I strive to make the internet accessible for everyone. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. I plan all of my projects with agile principles in mind. currently using notion to plan all of my personal projects as if they were business  initiatives.
+Quality Web Engineer, looking to improve the web by making an easy and responsive experience for all. Through many different testing strategies we look to reduce company cost, find errors and ensure the best product to customers. Learning quickly and efficiently is one of my greatest skill sets always looking for new ways to add value. Flexible in team environment and always looking to connect with other professionals.
 
 ---
 
